@@ -3,6 +3,8 @@ This is my first Java project, the beloved Snake game. I created it for my IHK p
 
 For the icon, I used the following:
 - https://www.freepik.com/icon/snake_427533
+This project was heavily inspired by this:
+- https://www.youtube.com/watch?v=VmChebZcb2U
 
 The following are all in german:
 - "Probeprojekt Antrag (korrigiert).pdf" is the application for the probe project.
