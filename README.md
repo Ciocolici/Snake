@@ -22,6 +22,7 @@ This is my first Java project, a recreation of the classic Snake game. It was de
 **Option 2: Runnable JAR (Not guaranteed to work)**
 
   File: Snake by Cioco.jar
+  
   Due to unresolved issues with JavaFX and Eclipse integration, this JAR file may not run properly. If it doesn't work, please use the IDE method above.
 
 🎓 Acknowledgements
