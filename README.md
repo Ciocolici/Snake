@@ -4,10 +4,10 @@ This is my first Java project, a recreation of the classic Snake game. It was de
 
 📁 Files 
 
-  Probeprojekt Antrag (korrigiert).pdf – Project application (corrected)
-  Probeprojekt Snake Dokumentation.pdf – Full documentation
-  Feedback.docx – Feedback from my instructor
-  Probeprojekt Snake Präsentation.pdf – Presentation slides
+- Probeprojekt Antrag (korrigiert).pdf – Project application (corrected)
+- Probeprojekt Snake Dokumentation.pdf – Full documentation
+- Feedback.docx – Feedback from my instructor
+- Probeprojekt Snake Präsentation.pdf – Presentation slides
 
   Note: All documents listed above are in German.
 
@@ -15,13 +15,13 @@ This is my first Java project, a recreation of the classic Snake game. It was de
 
 **Option 1: From IDE (Recommended)**
 
-  Open the project in a Java-supported IDE (e.g. Eclipse or IntelliJ).
-  Ensure JavaFX is correctly installed and linked.
-  Run the main class.
+- Open the project in a Java-supported IDE (e.g. Eclipse or IntelliJ).
+- Ensure JavaFX is correctly installed and linked.
+- Run the main class.
 
 **Option 2: Runnable JAR (Not guaranteed to work)**
 
-  File: Snake by Cioco.jar
+- File: Snake by Cioco.jar
   
   Due to unresolved issues with JavaFX and Eclipse integration, this JAR file may not run properly. If it doesn't work, please use the IDE method above.
 
