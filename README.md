@@ -31,4 +31,4 @@ Big thanks to the original creator for the guidance and foundation.
 
 For the icon, I used [this](https://www.freepik.com/icon/snake_427533).
 
-💬 This was my first project in Java, and a real challenge to complete within the given timeframe. It taught me a lot about object-oriented programming, UI integration, and working under pressure.
+💬 This was my first project in Java, and a real challenge to complete within the given timeframe. It taught me a lot about game programming, UI integration, and working under pressure.
