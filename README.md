@@ -2,15 +2,6 @@
 
 This is my first Java project, a recreation of the classic Snake game. It was developed as part of my IHK trial project during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy.
 
-📁 Files 
-
-- Probeprojekt Antrag (korrigiert).pdf – Project application (corrected)
-- Probeprojekt Snake Dokumentation.pdf – Full documentation
-- Feedback.docx – Feedback from my instructor
-- Probeprojekt Snake Präsentation.pdf – Presentation slides
-
-  Note: All documents listed above are in German.
-
 🚀 How to Run
 
 **Option 1: From IDE (Recommended)**
